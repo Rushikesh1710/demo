@@ -6,3 +6,6 @@ D for Dog
 
 E for Egg
 F for Fish
+
+G for Goat
+H fot Hat
